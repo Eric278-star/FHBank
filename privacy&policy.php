@@ -1,5 +1,5 @@
 <?php
-    $pageTitle = "Privacy and Policies";
-    require_once("assets/header.php");
+$pagetitle = "Privacy and Policy";
+require_once("assets/header.php");
 ?>
-<h1>Privacy & Policies</h1>
+<h1>Privacy and Policy</h1>
